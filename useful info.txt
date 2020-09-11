@@ -1,0 +1,15 @@
+UI development using PySide2 / PyQt5
+Develop and maintain shared Python libraries, and web interfaces.
+Strong familiarity with GIT / SVN and collaborative workflows (code review, standards, etc.)
+python is dynamically typed, variables can be changed anytime without introducing the datatype
+Strings are immutable but we can do string concatenation
+formatted string literals
+
+python useful commands:
+
+myfile = open('filename') - to open the file
+myfile.read() - to display the file contents
+myfile.seek(0) - to reset the cursor to 0 to read again
+myfile.readlines() - separates each line
+myfile = open("path of directory") - to open files from different directories
+with(open
